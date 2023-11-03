@@ -1,5 +1,6 @@
 # CSCI_3700 Quinton Ross & Beckett Stevens
 Quick Start
+
 First, we need to install a Python 3 virtual environment with:
 sudo apt-get install python3-venv
 
