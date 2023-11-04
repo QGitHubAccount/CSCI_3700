@@ -94,7 +94,7 @@ host = **127.0.0.1**
 
 port = **5432**
 
-database = **dvdrenta**'
+database = **dvdrental**
 
 ### The **127.0.0.1** IP address indicates local hosting
 
