@@ -82,6 +82,16 @@ VALUES
     (4, 'Pear');
 ```
 
+You should now be able to navigate to 127.0.0.1:5000 in a web browser to access the application
+
+####It's also important to note the following hardcoded details
+
+username='raywu1990'
+password='test'
+host='127.0.0.1'
+port='5432'
+database='dvdrental'
+
 ### Team Members
 
 Quinton Ross & Beckett Stevens
