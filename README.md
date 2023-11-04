@@ -94,7 +94,7 @@ database = **dvdrenta**'
 
 The **127.0.0.1** IP address indicates local hosting
 
-### Team Members
+## Team Members
 
 Quinton Ross & Beckett Stevens
 
