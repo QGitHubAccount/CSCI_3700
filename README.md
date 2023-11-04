@@ -87,12 +87,16 @@ You should now be able to navigate to 127.0.0.1:5000 in a web browser to access 
 ### It's also important to note the following hardcoded details
 
 username = **raywu1990**
-  password = **test**
-  host = **127.0.0.1**
-  port = **5432**
-  database = **dvdrenta**'
 
-The **127.0.0.1** IP address indicates local hosting
+password = **test**
+
+host = **127.0.0.1**
+
+port = **5432**
+
+database = **dvdrenta**'
+
+### The **127.0.0.1** IP address indicates local hosting
 
 ## Team Members
 
