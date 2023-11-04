@@ -1,19 +1,44 @@
-# CSCI_3700 Quinton Ross & Beckett Stevens
-Quick Start
+# Fruit Basket CSCI3700 Flask SQL Integration
+
+## Project Description
+This project integrates a Flask application with PostgreSQL. The project provides a local web interface to display database information. The user can also update the SQL database.
+
+## Getting Started
 
 First, we need to install a Python 3 virtual environment with:
-**sudo apt-get install python3-venv**
+
+```sh
+sudo apt-get install python3-venv
+```
 
 Create the virtual environment:
-**python3 -m venv python_venv**
+
+```sh
+python3 -m venv python_venv
+```
 
 You need to activate the virtual environment when you want to use it:
-**source python_venv/bin/activate**
+
+```sh
+source python_venv/bin/activate
+```
 
 To fufil all the requirements for the python server, you need to run:
-**pip3 install -r requirements.txt**
+
+```sh
+pip3 install -r requirements.txt
+```
 
 Because we are now inside a virtual environment. We do not need sudo.
 
 Then you can start the server with:
-**python3 main.py**
+
+```sh
+python3 main.py
+```
+
+
+### Team Members
+
+Quinton Ross & Beckett Stevens
+
