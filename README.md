@@ -96,7 +96,7 @@ port = **5432**
 
 database = **dvdrental**
 
-### The **127.0.0.1** IP address indicates local hosting
+The **127.0.0.1** IP address indicates local hosting
 
 ## Team Members
 
